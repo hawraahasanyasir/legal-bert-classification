@@ -1,0 +1,17 @@
+# Legal Clause Classification using BERT
+
+## Project Overview
+This project focuses on fine-tuning the **BERT-base-uncased** model to classify legal document clauses. It was developed as a software simulation for the Computer Engineering Department at **Al-Farabi University College**.
+
+## Features
+* **Model:** BERT-base-uncased.
+* **Analysis:** Ablation study comparing 256 vs 512 tokens.
+* **Visualization:** Performance charts showing Macro F1-Score.
+* **Success Metric:** Achieved **0.78**, exceeding the required 0.75 threshold.
+
+## Results
+![Performance Results](performance_results.png)
+
+## Student
+* **Name:** Hawraa Hasan Yasir
+* **Academic Year:** 2025-2026
