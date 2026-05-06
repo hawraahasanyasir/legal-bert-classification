@@ -1,0 +1,24 @@
+# Legal BERT Classification
+
+## Description
+
+This project uses BERT model to classify legal texts into categories.
+
+## Files
+
+* legal_bert_classification.py: Main code
+* performance_results.png: Model results
+
+## How to run
+
+1. Install required libraries
+2. Run:
+   python legal_bert_classification.py
+
+## Model
+
+This project is based on BERT (Bidirectional Encoder Representations from Transformers).
+
+## Results
+
+The model performance is shown in the image file.
